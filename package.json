@@ -1,0 +1,19 @@
+{
+  "name": "mysql-transactions",
+  "version": "0.0.1",
+  "description": "Use SQL transactions with node-mysql",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilioTe/node-mysql-transactions"
+  },
+  "keywords": [
+    "mysql",
+    "transactions"
+  ],
+  "author": "Emilio Testa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilioTe/node-mysql-transactions/issues"
+  }
+}
