@@ -1,6 +1,6 @@
 {
   "name": "mysql-transactions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Use SQL transactions with node-mysql",
   "main": "index.js",
   "repository": {

@@ -15,10 +15,12 @@ module.exports = function(mysqlOpts) {
 
     return {
 
-        _connection: mysql.createConnection(mysqlOpts),
+        _connection: null,
 
 
         begin:  function(cb) {
+
+            this._connection = mysql.createConnection(mysqlOpts);
 
             this._connection.connect();
 
