@@ -2,7 +2,7 @@
  * node-mysql-transactions
  *
  * npm:     mysql-transactions
- * github:  https://github.com/emilioTe/node-mysql-transactions
+ * github:  https://github.com/thatemilio/node-mysql-transactions
  *
  */
 
